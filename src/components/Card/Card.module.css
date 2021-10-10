@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-width: fit-content;
+    width: 350px;
+    height: 400px;
+    padding: 0;
+    margin: 12rem auto;
+    background-color: #fafafa;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+.container img {
+ border-radius: 50%
+}
